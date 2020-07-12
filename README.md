@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! I am working as a software engineer. 👋
+
+![](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif)
 
 <!--
 **duckino/duckino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
