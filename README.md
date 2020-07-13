@@ -1,4 +1,4 @@
-### Hi there! I am working as a software engineer. 👋
+### Hi there! I am working as a software engineer. Wish those of you who are reading have an awesome day 👋
 
 ![](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif)
 
