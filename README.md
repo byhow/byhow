@@ -1,6 +1,6 @@
 ### Hi there! Wish you have a wonderful day ☺️
 
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif" width=54% height=58%/>
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif" width=64% height=68%/>
 
 #### I am a Software Engineer. 
 ![Stats](https://github-readme-stats.vercel.app/api?username=duckino&show_icons=true&theme=tokyonight)
