@@ -1,9 +1,9 @@
-## Hi there! Wish those of you who are reading have a wonderful day 👋
+### Hi there! Wish you have a wonderful day ☺️
 
 ![](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif)
 
-### I am working as a software engineer. 
-![Stats](https://github-readme-stats.vercel.app/api?username=duckino&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=[%22contribs%22])
+#### I am a software engineer. 
+![Stats](https://github-readme-stats.vercel.app/api?username=duckino&show_icons=true&theme=tokyonight)
 
 <!--
 **duckino/duckino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
