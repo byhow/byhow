@@ -1,8 +1,8 @@
 ### Hi there! Wish you have a wonderful day ☺️
 
-![](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif)
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif" width=54% height=58%/>
 
-#### I am a software engineer. 
+#### I am a Software Engineer. 
 ![Stats](https://github-readme-stats.vercel.app/api?username=duckino&show_icons=true&theme=tokyonight)
 
 <!--
