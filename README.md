@@ -1,9 +1,12 @@
-### Hi there! Wish you have a wonderful day ☺️
+## Hi there! I am duckino. ☺️
 
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif" width=64% height=68%/>
+- 🔭 I’m currently working on [nous](https://github.com/duckino/nous)
+- 👨‍💻WFH as a Software Engineer
 
-#### I am a Software Engineer. 
-![Stats](https://github-readme-stats.vercel.app/api?username=duckino&show_icons=true&theme=tokyonight)
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif" width=45% height=45% />
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=duckino&show_icons=true&theme=tokyonight&show_icons=true" width=45% height=45% />
+
 
 <!--
 **duckino/duckino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
