@@ -8,7 +8,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    if: "github.repository == 'duckino/duckino'"
+    if: "github.repository == 'pogchan/pogchan'"
     steps:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest

@@ -2,12 +2,12 @@
     <img align="left" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif" width=60% height=60% />
     <br>
     <br>
-    <img align="left" src="https://github.com/duckino/duckino/blob/master/github-metrics.svg" />
+    <img align="left" src="https://github.com/pogchan/pogchan/blob/master/github-metrics.svg" />
 </div>
 
 
 <!--
-**duckino/duckino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pogchan/pogchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
