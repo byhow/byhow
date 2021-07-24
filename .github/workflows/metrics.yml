@@ -14,3 +14,4 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           template: classic
+          token: ${{ secrets.README }}
