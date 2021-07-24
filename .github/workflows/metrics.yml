@@ -13,14 +13,4 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          token: ${{ secrets.README }}
-          plugin_languages: yes
-          plugin_languages_ignored: html, css                          # List of languages to ignore
-          plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
-          plugin_languages_threshold: 2%                               # Hides all languages less than 2%
-          plugin_isocalendar: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_followup: yes
+          template: classic
