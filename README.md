@@ -7,11 +7,11 @@ I'm a seasoned full-stack developer passionate about building modern web applica
 **My Interests & Skills:**
 
 *   **Full-Stack Development:** Building type-safe end-to-end applications, often utilizing Functional TypeScript. [Parse, don't validate](https://news.ycombinator.com/item?id=35053118).
-*   **Web3 & Blockchain:** Exploring decentralized technologies, including IPFS, Ethereum (Arbitrum, Optimism), and wallet integrations (RainbowKit, Wagmi, viem.sh)
+*   **Onchain:** Exploring decentralized technologies, including IPFS, Ethereum (Arbitrum, Optimism), and wallet integrations (RainbowKit, Wagmi, viem.sh)
 *   **Modern JavaScript Ecosystem:**
     *   **Frameworks:** Primarily Next.js, Tailwind CSS, Shadcn UI and TypeScript React with [Effect](https://effect.website/).
     *   **Backend & Database:** Experience with Express, Hono, Deno, Elysia, Drizzle ORM, Supabase (Postgres), and Cloudflare.
-*   **User Experience:** Focused on creating lightweight, fast, and content-rich interfaces
+*   **CRDT**
 
 **Check out some of my projects:**
 
