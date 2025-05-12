@@ -15,3 +15,6 @@ jobs:
         with:
           template: classic
           token: ${{ secrets.README }}
+          base: ""
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal, list
