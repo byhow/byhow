@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="181" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="163" class="">
     <defs>
         <style/>
     </defs>
@@ -15,7 +15,7 @@
                 </h2>
                 <div class="fill-width">
                     <section class="sponsors goal">
-                        <div class="markdown">One step closer to full-time open source and building products that benefits the community 🫂</div>
+                        <div class="markdown">Help me cover my domain cost and Vercel bills 😇</div>
                         <div class="center horizontal-wrap ">
                             <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="440" height="8">
                                 <mask id="project-bar">
