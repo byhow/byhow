@@ -16,8 +16,8 @@ Seasoned full-stack product builder passionate about local-first, decentralizati
 -->
 **Check out some of my projects:**
 
-*   **[matters-forum](https://github.com/byhow/matters-forum):** A full-stack web forum for IPFS curated content, built with Next.js, React, and various Web3 tools. It features functionalities like wallet connection, content sorting, commenting, and an RSS feed.
-*   **[wrap-eth-arbitrum](https://github.com/byhow/wrap-eth-arbitrum):** A Next.js DApp for wrapping and unwrapping ETH on the Arbitrum network, emphasizing a clean user interface and robust testing.
+*   **[matters-forum](https://github.com/byhow/matters-forum):** A web forum for IPFS curated content. Supports wallet connection, content sorting, commenting, and an RSS feed.
+*   **[wrap-eth-arbitrum](https://github.com/byhow/wrap-eth-arbitrum):** Wrapping and unwrapping ETH on Arbitrum, emphasizing a clean user interface and robust testing.
 
 <div>
     <img align="left" src="https://github.com/byhow/byhow/blob/main/github-metrics.svg" width=380/>
