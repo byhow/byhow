@@ -18,3 +18,4 @@ jobs:
           base: ""
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list
+          plugin_sponsors_past: yes
