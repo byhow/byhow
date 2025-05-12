@@ -13,7 +13,7 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          template: classic
+          # template: classic
           token: ${{ secrets.README }}
           base: ""
           plugin_sponsors: yes
