@@ -2,7 +2,7 @@
 
 ## I'm ()
 
-I'm a seasoned full-stack developer passionate about building modern web applications, local-first, and decentralization.
+Seasoned full-stack product builder passionate about local-first, decentralization, and making snappy modern web applications, .
 
 <!---
 **My Interests & Skills:**
