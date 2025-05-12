@@ -4,6 +4,7 @@
 
 I'm a seasoned full-stack developer passionate about building modern web applications, local-first, and decentralization.
 
+<!---
 **My Interests & Skills:**
 
 *   **Full-Stack Development:** Building type-safe end-to-end applications, often utilizing Functional TypeScript. [Parse, don't validate](https://news.ycombinator.com/item?id=35053118).
@@ -12,7 +13,7 @@ I'm a seasoned full-stack developer passionate about building modern web applica
     *   **Frameworks:** Primarily Next.js, Tailwind CSS, Shadcn UI and TypeScript React with [Effect](https://effect.website/).
     *   **Backend & Database:** Experience with Express, Hono, Deno, Elysia, Drizzle ORM, Supabase (Postgres), and Cloudflare.
 *   **CRDT**
-
+-->
 **Check out some of my projects:**
 
 *   **[matters-forum](https://github.com/byhow/matters-forum):** A full-stack web forum for IPFS curated content, built with Next.js, React, and various Web3 tools. It features functionalities like wallet connection, content sorting, commenting, and an RSS feed.
