@@ -2,7 +2,7 @@
 
 ## I'm ()
 
-Seasoned full-stack product builder passionate about local-first, decentralization, and making snappy modern web applications, .
+Seasoned full-stack necromancer passionate about local-first, decentralization, and making snappy modern web applications, .
 
 <!---
 **Interests & Skills:**
