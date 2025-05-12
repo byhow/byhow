@@ -5,7 +5,7 @@
 Seasoned full-stack product builder passionate about local-first, decentralization, and making snappy modern web applications, .
 
 <!---
-**My Interests & Skills:**
+**Interests & Skills:**
 
 *   **Full-Stack Development:** Building type-safe end-to-end applications, often utilizing Functional TypeScript. [Parse, don't validate](https://news.ycombinator.com/item?id=35053118).
 *   **Onchain:** Exploring decentralized technologies, including IPFS, Ethereum (Arbitrum, Optimism), and wallet integrations (RainbowKit, Wagmi, viem.sh)
