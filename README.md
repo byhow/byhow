@@ -21,5 +21,5 @@ Seasoned full-stack necromancer passionate about local-first, decentralization, 
 
 <div>
     <img align="left" src="https://github.com/byhow/byhow/blob/main/github-metrics.svg" width=450/>
-    <img align="right" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif" width=400 />
+    <img align="right" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif" width=450 />
 </div>
