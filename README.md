@@ -2,7 +2,7 @@
 
 ## I'm ()
 
-Seasoned full-stack necromancer passionate about local-first, decentralization, and making snappy modern web applications, .
+Seasoned full-stack necromancer passionate about local-first, decentralization, and making snappy modern web applications.
 
 <!---
 **Interests & Skills:**
@@ -20,6 +20,6 @@ Seasoned full-stack necromancer passionate about local-first, decentralization, 
 *   **[wrap-eth-arbitrum](https://github.com/byhow/wrap-eth-arbitrum):** Wrapping and unwrapping ETH on Arbitrum, emphasizing a clean user interface and robust testing.
 
 <div>
-    <img align="left" src="https://github.com/byhow/byhow/blob/main/github-metrics.svg" width=380/>
+    <img align="left" src="https://github.com/byhow/byhow/blob/main/github-metrics.svg" width=400/>
     <img align="right" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif" width=400 />
 </div>
