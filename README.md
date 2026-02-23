@@ -13,7 +13,7 @@ I build type-safe, snappy web applications with a bias toward functional program
 ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-#### Currently conjuring
+### Currently conjuring
 
 - 🧠 Typing everything with [Effect-TS](https://effect.website/) — making impossible states unrepresentable
 - 🌐 Local-first architectures — CRDTs, [Yjs](https://github.com/yjs/yjs), offline-capable by default
