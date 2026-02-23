@@ -9,8 +9,6 @@ I build type-safe, snappy web applications with a bias toward functional program
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-<!-- ![Effect](https://img.shields.io/badge/-Effect--TS-000?style=flat-square&logoColor=white) -->
-<!-- ![Elysia](https://img.shields.io/badge/-Elysia-7C6AEF?style=flat-square&logo=elysia&logoColor=white) -->
 ![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
