@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
   schedule: [{cron: '0 0 1 * *'}]
-  # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["main"]}
 jobs:
@@ -10,12 +8,14 @@ jobs:
     runs-on: ubuntu-latest
     if: "github.repository == 'byhow/byhow'"
     steps:
-      # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          # template: classic
           token: ${{ secrets.README }}
-          base: ""
-          plugin_sponsors: yes
-          plugin_sponsors_sections: goal, list
-          plugin_sponsors_past: yes
+          base: header, activity, community, repositories
+          base_indepth: yes
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 6
+          plugin_languages_recent_load: 20
+          plugin_languages_ignored: html, css, scss
