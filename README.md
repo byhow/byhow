@@ -23,6 +23,7 @@ I build type-safe, snappy web applications with a bias toward functional program
 ---
 
 ### Past projects
+- 🤖 **[model-picker](https://github.com/byhow/model-picker)** — CLI + agent skill for comparing AI models by price, speed, and context — npm installable, works with 43+ coding agents
 - 📰 **[matters-forum](https://github.com/byhow/matters-forum)** — Web forum for IPFS-curated content — wallet auth, commenting, RSS
 - 🖥️ **[atkinson-dither](https://github.com/byhow/atkinson-dither)** — Old Macintosh dithering vibes with web components
 - 🔄 **[wrap-eth-arbitrum](https://github.com/byhow/wrap-eth-arbitrum)** — DApp for wrapping/unwrapping ETH on Arbitrum
