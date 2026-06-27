@@ -32,12 +32,8 @@ I build type-safe, snappy web applications with a bias toward functional program
 - 🧊 **[r3f-rubiks-cube](https://github.com/byhow/r3f-rubiks-cube)** — Interactive Rubik's Cube with React Three Fiber
 - 🗣️ **[yanyu](https://github.com/byhow/yanyu)** — Text-to-Speech node package with pinyin audio library
 
----
-
-### Stats
-
-<img src="https://github.com/byhow/byhow/blob/main/github-metrics.svg" alt="GitHub metrics" />
+<!-- <img src="https://github.com/byhow/byhow/blob/main/github-metrics.svg" alt="GitHub metrics" /> -->
 
 ---
 
-<sub>If you're building local-first software, type-driven APIs, or weird web experiments — [say hi](https://byhow.me).</sub>
+<sub>If you're building agentic infra + devtools, local-first inference, or type-driven APIs — [say hi](https://byhow.me).</sub>
