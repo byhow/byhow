@@ -15,7 +15,6 @@ I am currently building eval, trace, MCP, and control-plane plumbing that lets t
 
 - [pi-trust-mono](https://github.com/byhow/pi-trust-mono) - trusted control plane for pi (policy gates + trust scoring + eval checkpoints).
 - [model-picker](https://github.com/byhow/model-picker) - interactive OpenRouter model picker; CLI + installable agent skill.
-- [nous](https://github.com/byhow/nous) - a universal package manager and API builder.
 
 ### Past projects
 
