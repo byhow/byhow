@@ -1,4 +1,4 @@
-## hi, i am byhow
+## hi, i am baihao
 
 I am currently building eval, trace, MCP, and control-plane plumbing that lets teams ship AI agents they can trust. Product-wise I build type-safe, snappy web applications with a bias toward functional programming, local-first architecture, and decentralizations. Avid follower of [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/).
 
